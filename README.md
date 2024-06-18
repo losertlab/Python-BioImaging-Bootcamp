@@ -4,6 +4,8 @@ Losert Lab Python BioImaging Bootcamp
 ## Colab Notebook Links
 **Day 1**, Intro to Python, Numpy, and Pandas: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KnOCil9uHsmN0S6ubkyp_ubCHLi3WDv7?usp=sharing)
 
+**Day 2**, Classical Computer Vision: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WreOYCftQzIDT_t93DSNiQUpeYHVP_f-?usp=sharing)
+
 ## Schedule and Locations:
 
 **Monday**: 9:30am-5:30pm, PSC 2136
