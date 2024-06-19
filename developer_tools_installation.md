@@ -1,3 +1,5 @@
+**Please make a github account and verify your email address**
+
 ### Installation Links
 
 Here are the links to the official installation pages for each tool:
